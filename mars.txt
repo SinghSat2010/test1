@@ -6,3 +6,4 @@ We are on mars
 Resolved the conflict
 In the RStudio!
 Commiting again
+From the bash command
